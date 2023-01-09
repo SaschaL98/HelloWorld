@@ -8,4 +8,5 @@ C++ Compiler. Zum Editieren reicht jeder Editor.
 
 ## Installationsvorgang
 Die .cpp-Datei herunterladen. In einem C++-Compiler öffnen und ausführen.
-![image](https://github.com/SaschaL98/HelloWorld/blob/main/Screenshots/Code.PNG)
+
+![image](https://github.com/SaschaL98/HelloWorld/blob/main/Screenshots/Console.PNG)
